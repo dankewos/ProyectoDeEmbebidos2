@@ -7,7 +7,7 @@ const int IR_ENTRADA = 39;
 const int IR_SALIDA  = 4;
 const int LED_VERDE  = 0;
 const int LED_ROJO   = 2;
-const int BUZZER     = 36;
+const int BUZZER     = 25;
 
 // --- Configuración WiFi ---
 const char* ssid     = "carrito";
